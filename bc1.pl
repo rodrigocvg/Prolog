@@ -1,0 +1,2 @@
+feliz(ana).
+feliz(joao).
